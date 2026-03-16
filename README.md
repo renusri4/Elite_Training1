@@ -35,11 +35,6 @@ For every problem, I try to:
 3. Implement the solution in Java
 4. Optimize the code if a better approach exists
 
-## 📈 Progress
-Through consistent practice in **Elite Training**, I aim to strengthen my coding skills and build confidence for technical interviews.
-
-⭐ This repository documents my journey of improving problem-solving skills through daily coding practice.
-
 ## 📅 Daily Progress Tracker
 
 ### Slot 1 (Phase 1)
@@ -77,3 +72,7 @@ Through consistent practice in **Elite Training**, I aim to strengthen my coding
 | **Mar 11, 2026** | Frequencies & Array Replacements | HackerRank | 6 | [View Solutions](./MAR%2011%202026.md) |
 
 ---
+📈 Progress
+Through consistent practice in Elite Training, I aim to strengthen my coding skills and build confidence for technical interviews.
+
+⭐ This repository documents my journey of improving problem-solving skills through daily coding practice.
